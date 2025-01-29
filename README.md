@@ -1,4 +1,4 @@
-# Hi there, I'm Anand Kumar! 👋
+# Hi there, I'm SHUBHAM Kumar! 👋
 
 ![Profile Banner](https://user-images.githubusercontent.com/banner-url)
 
@@ -36,12 +36,12 @@ Here are a few of my notable projects:
 ### 💬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - 🐦 [Twitter](https://twitter.com/yourusername)
-- 📫 Email: codebyaanand@gmail.com(mailto:codebyaanand@gmail.com)
+- 📫 Email: codebyaSHUBHAM@gmail.com(mailto:codebyaSHUBHAM@gmail.com)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithanand&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithanand&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithSHUBHAM&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithSHUBHAM&layout=compact&theme=radical)
 
 ---
 
